@@ -17,13 +17,13 @@
     }
   ],
   "iconAlign": "left",
-  "iconName": "geolocation",
+  "iconName": "asterisk",
   "isDefaultClickDisabled": true,
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
   "key": "a96me8me1o",
-  "leftColumn": 54,
+  "leftColumn": 51,
   "minWidth": 120,
   "mobileBottomRow": 4,
   "mobileLeftColumn": 48,
@@ -44,6 +44,6 @@
   "topRow": 0,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "y0ocusch4a",
+  "widgetId": "syxu63rlfn",
   "widgetName": "Button1"
 }
