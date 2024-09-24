@@ -1,0 +1,49 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 4,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconAlign": "left",
+  "iconName": "geolocation",
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "a96me8me1o",
+  "leftColumn": 54,
+  "minWidth": 120,
+  "mobileBottomRow": 4,
+  "mobileLeftColumn": 48,
+  "mobileRightColumn": 64,
+  "mobileTopRow": 0,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('https://github.com/brayn003/INSEAD-assignment-tracker/issues', {}, 'NEW_WINDOW');}}",
+  "parentColumnSpace": 17.25,
+  "parentId": "so2iav8aok",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "text": "Request a Feature",
+  "topRow": 0,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "vg1qfqu5td",
+  "widgetName": "Button1"
+}

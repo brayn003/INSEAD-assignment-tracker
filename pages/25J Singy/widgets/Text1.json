@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 87,
+  "bottomRow": 89,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -38,8 +38,8 @@
   "mobileRightColumn": 17,
   "mobileTopRow": 79,
   "needsErrorInfo": false,
-  "originalBottomRow": 87,
-  "originalTopRow": 76,
+  "originalBottomRow": 89,
+  "originalTopRow": 78,
   "overflow": "NONE",
   "parentColumnSpace": 17.53125,
   "parentId": "0",
@@ -51,7 +51,7 @@
   "text": "\n\nFetching your assignments ...\n\n",
   "textAlign": "CENTER",
   "textColor": "#231F20",
-  "topRow": 76,
+  "topRow": 78,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
