@@ -1,0 +1,52 @@
+{
+  "gitSyncId": "66dc16df9e7ae72312ad10ce_28f19f7b-0fb1-401a-9343-db9013f63d25",
+  "id": "25J Singy_app",
+  "unpublishedCollection": {
+    "name": "app",
+    "pageId": "25J Singy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "MAX_DUE_IN",
+        "value": "999999999"
+      },
+      {
+        "name": "loadingData",
+        "value": "false"
+      },
+      {
+        "name": "sections",
+        "value": "[\"section_a1\", \"section_a2\"]"
+      },
+      {
+        "name": "list_courses",
+        "value": "{\n  section_a1: list_courses_a1,\n  section_a2: list_courses_a2\n}"
+      },
+      {
+        "name": "list_assignments",
+        "value": "{\n  section_a1: list_assignments_a1,\n  section_a2: list_assignments_a2\n}"
+      },
+      {
+        "name": "excludedCourseIds",
+        "value": "[8055]"
+      },
+      {
+        "name": "rawAssignments",
+        "value": "{}"
+      },
+      {
+        "name": "courses",
+        "value": "{}"
+      },
+      {
+        "name": "assignments",
+        "value": "[]"
+      },
+      {
+        "name": "displayedAssignments",
+        "value": "[]"
+      }
+    ]
+  }
+}

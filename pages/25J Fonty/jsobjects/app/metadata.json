@@ -1,0 +1,52 @@
+{
+  "gitSyncId": "66dc16df9e7ae72312ad10ce_814cbe63-8f35-43ff-9193-8b336209ef1c",
+  "id": "25J Fonty_app",
+  "unpublishedCollection": {
+    "name": "app",
+    "pageId": "25J Fonty",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "MAX_DUE_IN",
+        "value": "999999999"
+      },
+      {
+        "name": "loadingData",
+        "value": "false"
+      },
+      {
+        "name": "sections",
+        "value": "[\"section_e1\", \"section_e2\", \"section_e3\", \"section_e4\"]"
+      },
+      {
+        "name": "list_courses",
+        "value": "{\n  section_e1: list_courses_e1,\n  section_e2: list_courses_e2,\n  section_e3: list_courses_e3,\n  section_e4: list_courses_e4\n}"
+      },
+      {
+        "name": "list_assignments",
+        "value": "{\n  section_e1: list_assignments_e1,\n  section_e2: list_assignments_e2,\n  section_e3: list_assignments_e3,\n  section_e4: list_assignments_e4\n}"
+      },
+      {
+        "name": "excludedCourseIds",
+        "value": "[8054]"
+      },
+      {
+        "name": "rawAssignments",
+        "value": "{}"
+      },
+      {
+        "name": "courses",
+        "value": "{}"
+      },
+      {
+        "name": "assignments",
+        "value": "[]"
+      },
+      {
+        "name": "displayedAssignments",
+        "value": "[]"
+      }
+    ]
+  }
+}

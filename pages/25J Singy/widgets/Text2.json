@@ -1,0 +1,60 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 111,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "isVisible"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicPropertyPathList": [
+    {
+      "key": "isVisible"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": "{{app.loadingData}}",
+  "key": "a2bv7u1lia",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 88,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
+  "mobileTopRow": 84,
+  "needsErrorInfo": false,
+  "originalBottomRow": 111,
+  "originalTopRow": 87,
+  "overflow": "NONE",
+  "parentColumnSpace": 17.5625,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 63,
+  "shouldTruncate": false,
+  "text": "🆕 Updates (24 Sep 2024)\n- Improved logic for section wise tracking of assignments\n- Increased the limit to fetch more assignments at once\n\n🛠 Updates (17 Sep 2024)\n- Improved group assignment detection logic\n\n🛠 Updates (12 Sep 2024)\n- Added tracking for sections A1 & A2\n\n🛠 Updates (7 Sep 2024)\n- Launched assignment tracker for Singy",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 87,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "5wq3lwm73c",
+  "widgetName": "Text2"
+}
