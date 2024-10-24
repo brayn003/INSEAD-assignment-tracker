@@ -109,13 +109,13 @@
       "key": "primaryColumns.groupType.computedValue"
     },
     {
-      "key": "isVisible"
-    },
-    {
       "key": "primaryColumns.groupType.cellBackground"
     },
     {
       "key": "primaryColumns.customColumn1.cellBackground"
+    },
+    {
+      "key": "isVisible"
     }
   ],
   "dynamicPropertyPathList": [
@@ -145,7 +145,7 @@
   "inlineEditingSaveOption": "ROW_LEVEL",
   "isLoading": false,
   "isSortable": true,
-  "isVisible": "{{!app.loadingData}}",
+  "isVisible": "{{false}}",
   "isVisibleDownload": true,
   "isVisibleFilters": true,
   "isVisiblePagination": false,

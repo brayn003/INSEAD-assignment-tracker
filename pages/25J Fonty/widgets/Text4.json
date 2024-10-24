@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 89,
+  "bottomRow": 118,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -11,50 +11,42 @@
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "isVisible"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
-  "dynamicPropertyPathList": [
-    {
-      "key": "isVisible"
-    }
-  ],
   "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
-  "fontSize": "1.25rem",
-  "fontStyle": "",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
   "isLoading": false,
-  "isVisible": "{{false}}",
-  "key": "97z8i7sv1h",
-  "leftColumn": 0,
+  "isVisible": true,
+  "key": "wv3tbxu7o3",
+  "leftColumn": 1,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
-  "mobileBottomRow": 83,
+  "mobileBottomRow": 119,
   "mobileLeftColumn": 1,
   "mobileRightColumn": 17,
-  "mobileTopRow": 79,
+  "mobileTopRow": 115,
   "needsErrorInfo": false,
-  "originalBottomRow": 89,
-  "originalTopRow": 78,
+  "originalBottomRow": 118,
+  "originalTopRow": 111,
   "overflow": "NONE",
-  "parentColumnSpace": 17.53125,
+  "parentColumnSpace": 17.5625,
   "parentId": "0",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 64,
+  "rightColumn": 63,
   "shouldTruncate": false,
-  "text": "\n\nFetching your assignments ...\n\n",
+  "text": "Sorry! But your beloved Assignment Tracker has been shut down by INSEAD 😵\n\nWe are working to bring it back 🙏",
   "textAlign": "CENTER",
   "textColor": "#231F20",
-  "topRow": 78,
+  "topRow": 111,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "wsr9ey3dmu",
-  "widgetName": "Text1"
+  "widgetId": "5wlrvav7oe",
+  "widgetName": "Text4"
 }

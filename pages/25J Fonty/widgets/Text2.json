@@ -27,7 +27,7 @@
   "fontSize": "1rem",
   "fontStyle": "",
   "isLoading": false,
-  "isVisible": "{{app.loadingData}}",
+  "isVisible": "{{false}}",
   "key": "a2bv7u1lia",
   "leftColumn": 1,
   "maxDynamicHeight": 9000,
