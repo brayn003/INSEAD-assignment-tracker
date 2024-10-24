@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 118,
+  "bottomRow": 120,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -40,7 +40,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 63,
   "shouldTruncate": false,
-  "text": "Sorry! But your beloved Assignment Tracker has been shut down by INSEAD 😵\n\nWe are working to bring it back 🙏",
+  "text": "\nSorry! But your beloved Assignment Tracker has been shut down by INSEAD 😵\n\nWe are working to bring it back 🙏",
   "textAlign": "CENTER",
   "textColor": "#231F20",
   "topRow": 111,

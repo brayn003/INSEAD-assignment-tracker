@@ -21,7 +21,7 @@
   "isDefaultClickDisabled": true,
   "isDisabled": false,
   "isLoading": false,
-  "isVisible": true,
+  "isVisible": false,
   "key": "a96me8me1o",
   "leftColumn": 51,
   "minWidth": 120,
